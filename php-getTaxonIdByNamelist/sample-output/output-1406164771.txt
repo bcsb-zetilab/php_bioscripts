@@ -1,0 +1,90 @@
+Papaver bracteatum	215227
+Sanguinaria canadensis	3472
+Chelidonium majus	71251
+Stylophorum diphyllum	56864
+Eschscholzia californica	3467
+Glaucium flavum	56853
+Argemone mexicana	54796
+Thalictrum flavum	150094
+Hydrastis canadensis	13569
+Nigella sativa	555479
+Xanthorhiza simplicissima	13762
+Berberis thunbergii	121720
+Mahonia aquifolium	203270
+Jeffersonia diphylla	46961
+Menispermum canadense	49681
+Corydalis cheilanthifolia	946329
+Nandina domestica	41776
+Cissampelos mucronata	998464
+Tinospora cordifolia	285590
+Cocculus trilobus	13441
+Petasites hybridus	278673
+Matricaria recutita	127986
+Valeriana officinalis	19953
+Citrus paradisi	37656
+Lippia dulcis	542674
+Arnica chamissonis	436195
+Arnica montana	436207
+Lactuca sativa	4236
+Xanthium strumarium	318068
+Ligularia fischeri	186954
+Thapsia garganica	79022
+Chrysanthemum coronarium	99038
+Artemisia chamaemelifolia	72339
+Artemisia absinthium	72332
+Artemisia maritima	669130
+Humulus lupulus	3486
+Primula obconica	170924
+Hypericum perforatum	65561
+Cannabis sativa	3483
+Piper methysticum	130404
+Helichrysum petiolare	261796
+Vancouveria hexandra	46959
+Rheum rhabarbarum	333310
+Hydrangea macrophylla	23110
+Pelargonium x hortorum	4031
+Prunella vulgaris	39358
+Platanus occidentalis	4403
+Centella asiatica	48106
+Saponaria vaccaria	39387
+Dianthus superbus	288950
+Silene vulgaris	42043
+Acacia victoriae	138524
+Diospyros kaki	35925
+Swietenia mahagoni	459165
+Cedrela sinensis (Toona sinensis)	443222
+Vinca minor	60093
+Rauwolfia serpentina	4060
+Camptotheca acuminata	16922
+Lonicera japonica	105884
+Cinchona ledgeriana	153742
+Catharanthus ovalis	1167200
+Catharanthus longifolius	1167199
+Tabernaemontana elegans	761068
+Amsonia hubrichtii	946328
+Catharanthus roseus	4058
+Abies balsamea	90345
+Grindelia integrifolia	1043412
+Pseudolarix amabilis	3355
+Tripterygium wilfordii	458696
+Euphorbia peplus	38846
+Marrubium vulgare	41230
+Jatropha gossypiifolia	454931
+Coleus forskohlii	41228
+Rosmarinus officinalis	39367
+Isodon rubescens	587669
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
